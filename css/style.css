@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "cylinder";
+    src: url("../fonts/Cylinder-Regular.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "museo";
+    src: url("../fonts/MuseoSansRounded-300.otf") format("truetype");
+}
+
+
+#mainContent #nameDiv {
+   /* background-color: #ebebeb; */
+    font-family: cylinder;
+    font-size: 52px;
+}
+#mainContent p {
+    font-family: museo;
+    font-size: 17px;
+
+}
+#myImage{
+    height: 268px;
+}
+#myIcon{
+    height: 50px;
+}
+#mainContent{
+}
+body{
+    background-color: #F8E71C;
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+    <title>Engage</title>
+    <release-date>23 September, 2017</release-date>
+    <website>team3.bilkent.edu.tr/</website>
+    <press-can-request-copy>TRUE</press-can-request-copy>
+    
+    <platforms>
+        <platform>
+            <name>iOS</name>
+            <link>team3.bilkent.edu.tr/engage</link>
+        </platform>
+        <platform>
+            <name>Apple App Store</name>
+            <link>http://www.itunes.com/</link>
+        </platform>
+    </platforms>
+    
+    <prices>
+        <price>
+            <currency>Free</currency>
+        </price>
+    </prices>
+    <histories>
+        <history>
+            <text>Challenge your friends with Engage.</text>
+        </history>
+        <history>
+            <text>Challenge your friends with Engage. Engage is a multiplayer game platform where you can find mini-games that you can play with your friends.
+                Engage is a mobile platform that combines social network and mini-games. See which games are you good at and see if you can beat your friend on it. Earn experience points and get in the local list of best players or earn rarest badges that express your gaming style. You may earn unexpected achievements which can give you a laugh sometimes.Maybe you are bored and want to start a quick journey, you can find local players around you and challenge them.</text>
+        </history>
+        <!--<history>
+            <header>Game Mechanics</header>
+            <text>Challenge your friends with Engage. Engage is a multiplayer game platform where you can find mini-games that you can play with your friends. Engage is a mobile platform that combines social network and     mini-games. See which games are you good at and see if you can beat your friend on it. Earn experience points and get in the local list of best players or earn rarest badges that express your gaming style. You may earn unexpected achievements which can give you a laugh sometimes.Maybe you are bored and want to start a quick journey, you can find local players around you and challenge them.</text>
+        </history>
+        <history>
+            <header>Design Philosophy</header>
+            <text>LVL is built on minimalistic design philosophy. Art of the game is designed to keep players focused more on gameplay. Since game mechanics create their own unique aesthetic, we did not overwhelm it with complex art style.</text>
+        </history>
+-->
+        </histories>
+    
+    <features>
+        <feature>Challenge your friends on mini-games.</feature>
+        <feature>Find local players for a quick challenge.</feature>
+        <feature>Earn badges,achievements,experience points.s</feature>
+        <feature>Create groups for small or large communities. Get better at the group lists.</feature>
+        <feature>Add friends view games that your friends have played.</feature>
+    </features>
+    
+    <credits>
+        <credit>
+            <person>Ertan Ünver</person>
+            <role>Senior Developer</role>
+        </credit>
+        <credit>
+            <person>Berkay Öztürk</person>
+            <role>Developer</role>
+        </credit>
+        <credit>
+            <person>Okyay Say</person>
+            <role>Project Advisor</role>
+        </credit>
+    </credits>
+</game>

@@ -1,0 +1,4 @@
+       PATH=/sbin:/bin:/usr/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:$HOME/bin:.
+       EDITOR=vi
+export PATH EDITOR
+. ~/.bashrc

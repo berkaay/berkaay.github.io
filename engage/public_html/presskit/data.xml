@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>
+    <title>Team 3</title>
+    <founding-date>September 23, 2017</founding-date>
+    <website>team3.bilkent.edu.tr/</website>
+    <based-in>Ankara, Turkey</based-in>
+    
+    <press-contact>bberkayozturk@gmail.com</press-contact>
+    <phone>+90 (538) 248 28 24</phone>
+    <address>
+        <line>Department of Computer Technology and Information Systems </line>
+        <line>Bilkent University East Campus C Building </line>
+        <line>TR-06800 Bilkent Ankara Turkey </line>
+    </address>
+    
+    <description>
+        We are prospective 2018 graduates in CTIS department of Bilkent University and
+    </description>
+    
+    
+    <press-can-request-copy>FALSE</press-can-request-copy> <!-- can be true or false -->
+    <monetization-permission>FALSE</monetization-permission> <!-- can be:     false (no video allowed),
+                                                              ask (permission on case-per-case basis),
+                                                              non-commercial (no monetization allowed),
+                                                              monetize (full permission) -->
+    <credits>
+        <credit>
+            <person>Ertan Ünver</person>
+            <role>Senior Developer</role>
+        </credit>
+        <credit>
+            <person>Berkay Öztürk</person>
+            <role>Developer</role>
+        </credit>
+        <credit>
+            <person>Okyay Say</person>
+            <role>Advisor</role>
+        </credit>
+    </credits>
+    
+    <contacts>
+        <contact>
+            <name>Inquiries</name>
+            <mail>bberkayozturk@gmail.com</mail>
+        </contact>
+        <contact>
+            <name>Twitter</name>
+            <link>http://twitter.com/engagewithme</link>
+        </contact>
+        <contact>
+            <name>Web</name>
+            <link>team3.bilkent.edu.tr</link>
+        </contact>
+    </contacts>
+</game>
+
